@@ -43,7 +43,6 @@ flutter run
 ```text
 lib/
 assets/
-test/
 ```
 
 ## Supabase Setup
